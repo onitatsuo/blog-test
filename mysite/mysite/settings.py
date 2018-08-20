@@ -25,7 +25,7 @@ SECRET_KEY = '@l55kkw*-78!ngc_ep21=f^254i48-o9$86x6ui3ty7cgrx+zk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','onitatsuo.pythonanywhere.com']
 
 
 # Application definition
